@@ -20,6 +20,8 @@ public class LoginPagee {
 			if (smap.get(key) > 1)
 				System.out.println(key + ":" + smap.get(key));
 
-		
+		System.out.println("automation testing");
 	}
+	
+	
 }
