@@ -26,7 +26,12 @@ public class LOginTest {
 		else
 			System.out.println("Given number is not armstrong number");
 		
+		System.out.println("automatin and muanul testing");
 		
+		System.out.println("automatin and muanul testing");
+		System.out.println("automatin and muanul testing");
+		System.out.println("automatin and muanul testing");
+		System.out.println("automatin and muanul testing");
 	}
 
 }
