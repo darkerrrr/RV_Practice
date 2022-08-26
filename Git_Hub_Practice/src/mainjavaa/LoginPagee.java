@@ -21,6 +21,7 @@ public class LoginPagee {
 				System.out.println(key + ":" + smap.get(key));
 
 		System.out.println("automation testing");
+		System.out.println("Manual + Manual 2 + sql");
 	}
 	
 	
